@@ -3,13 +3,13 @@
 <h3 align="center">I'm from Rio de Janeiro, Brazil, I'm training to be a Junior Full-Stack Developer and I'm currently looking for opportunities</h3>
 
 
-- 🤔 I’m currently working on Logistics supervisor
+- 🤔 I’m currently working on **Logistics supervisor**
 
-- 🔭 I'm currently looking for opportunities to change my career as a developer
+- 🔭 I'm currently looking for opportunities to change my career as a **developer**
 
 - 🌱 I’m currently learning **Node.js**
 <!--
-- 👨‍💻 Some of my projects are available at /)
+- 👨‍💻 Some of my projects are available at )
 -->
 - 💬 Ask me about **react, redux, contextAPI, Jest, RTL, css**
 
@@ -37,6 +37,9 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-alves7&count_private=true&show_icons=true&theme=dracula)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alves7&layout=compact&theme=dracula)]
-[![trophy](https://github-profile-trophy.vercel.app/?username=bruno-alves7&theme=dracula)]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-alves7&count_private=true&show_icons=true&theme=dracula)](https://github.com/bruno-alves7)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alves7&layout=compact&theme=dracula)](https://github.com/bruno-alves7)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bruno-alves7&theme=dracula)](https://github.com/bruno-alves7)

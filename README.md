@@ -14,6 +14,8 @@
 - 💬 Ask me about **react, redux, contextAPI, Jest, RTL, css**
 
 - 👾 My hobbies are reading webnovels and playing games
+
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1618282657877.png" width="400px" />
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/alvesbrunolog/">
   <img align="left" alt="Bruno's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

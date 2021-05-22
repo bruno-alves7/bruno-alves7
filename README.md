@@ -40,6 +40,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-alves7&count_private=true&show_icons=true&theme=dracula)](https://github.com/bruno-alves7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alves7&layout=compact&theme=dracula)](https://github.com/bruno-alves7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alves7&count_private=true&layout=compact&theme=dracula)](https://github.com/bruno-alves7)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bruno-alves7&theme=dracula)](https://github.com/bruno-alves7)

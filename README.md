@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently looking for opportunities to change my career as a **developer**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Python**
 <!--
 - 👨‍💻 Some of my projects are available at )
 -->

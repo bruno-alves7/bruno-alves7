@@ -2,20 +2,11 @@
 
 <h3 align="center">I'm from Rio de Janeiro, Brazil, I'm training to be a Junior Full-Stack Developer and I'm currently looking for opportunities</h3>
 
-
 - 🤔 I’m currently working on **Logistics supervisor**
-
 - 🔭 I'm currently looking for opportunities to change my career as a **developer**
-
 - 🌱 I’m currently learning **Python**
-<!--
-- 👨‍💻 Some of my projects are available at )
--->
 - 💬 Ask me about **react, redux, contextAPI, Jest, RTL, css**
-
 - 👾 My hobbies are reading webnovels and playing games
-
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1618282657877.png" width="400px" />
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/alvesbrunolog/">
@@ -39,8 +30,3 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-alves7&count_private=true&show_icons=true&theme=dracula)](https://github.com/bruno-alves7)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alves7&theme=dracula)](https://github.com/bruno-alves7)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bruno-alves7&theme=dracula)](https://github.com/bruno-alves7)

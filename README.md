@@ -1,5 +1,7 @@
 ## 👋🏻 Hi, I'm Bruno Alves
 
+
+
 >"No matter how you spend your life, your wit will defend you more often than a sword. Keep it sharp!“ —  Patrick Rothfuss, book The Name of the Wind
 
 I have kept this phrase in my heart, and with it I recently achieved my career transition, leaving the logistics area and entering the technology area, I feel that I have fulfilled a dream I had wanted for a long time 🤩.
@@ -16,3 +18,7 @@ I am currently working as a Frontend Instructor at Trybe and I was able to watch
 </center>  
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,js,ts,docker,git,nodejs,express,linux,mongodb,mysql,aws,py,jest)](https://skillicons.dev)
+
+### Contact me
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/alvesbrunolog/)

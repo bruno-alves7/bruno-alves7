@@ -4,7 +4,7 @@
 
 >"No matter how you spend your life, your wit will defend you more often than a sword. Keep it sharp!“ —  Patrick Rothfuss, book The Name of the Wind
 
-I have kept this phrase in my heart, and with it I recently achieved my career transition, leaving the logistics area and entering the technology area, I feel that I have fulfilled a dream I had wanted for a long time 🤩.
+I have kept this phrase in my heart, and with it, I recently achieved my career transition, leaving the logistics area and entering the technology area, I feel that I have fulfilled a dream I had wanted for a long time 🤩.
 
 I am currently working as a Frontend Instructor at Trybe and I was able to watch the evolution of several people in software development (I feel highly honoured by that 🎖) today I believe that software development is a creative process, an art form, which mixes creativity and logic in a beautiful way 🥰.
 

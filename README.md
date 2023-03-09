@@ -1,12 +1,13 @@
 ## 👋🏻 Hi, I'm Bruno Alves
 
+ I am a frontend instructor passionate about technology and software development. I believe that Patrick Rothfuss' quote, "No matter how you live your life, your intelligence will defend you better than a sword. Keep it sharp!" perfectly reflects my approach to life and career. 
 
+After working for years in logistics, I made a radical change and pursued my dream of working with technology. It was a big challenge, but I am happy I made this decision and became a frontend instructor at Trybe. 
 
->"No matter how you spend your life, your wit will defend you more often than a sword. Keep it sharp!“ —  Patrick Rothfuss, book The Name of the Wind
+As an instructor, I have had the opportunity to witness the evolution of several people in software development and feel honored to be a part of this process. To me, software development is an art form that mixes creativity and logic in a beautiful way. My knowledge in Javascript, React, Node.js, Python, MySql, and Mongodb allows me to help students master these technologies and become successful software developers. 
 
-I have kept this phrase in my heart, and with it, I recently achieved my career transition, leaving the logistics area and entering the technology area, I feel that I have fulfilled a dream I had wanted for a long time 🤩.
+I am always looking to stay updated with the latest trends in technology and software development, and I love learning new skills and tools. My goal is to one day become a technical reference, sharing my knowledge and experience with other professionals. I seek to stay updated with the latest technologies and trends in the market, improving my skills, and sharing my knowledge.
 
-I am currently working as a Frontend Instructor at Trybe and I was able to watch the evolution of several people in software development (I feel highly honoured by that 🎖) today I believe that software development is a creative process, an art form, which mixes creativity and logic in a beautiful way 🥰.
 
 <center>
 <table>

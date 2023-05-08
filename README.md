@@ -23,3 +23,4 @@ I am always looking to stay updated with the latest trends in technology and sof
 ### Contact me
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/alvesbrunolog/)
+ 
